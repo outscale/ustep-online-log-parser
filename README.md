@@ -36,7 +36,7 @@ For any questions or feedback, please post to [the issue page](https://github.co
 
 # Contributing
 
-hank you for considering contributing to this repository.
+Thank you for considering contributing to this repository.
 
 Potential contributions include:
 
