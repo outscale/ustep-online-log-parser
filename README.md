@@ -1,6 +1,6 @@
 
 # USTEP Online Logparser
-[![Project Incubating](https://docs.outscale.com/fr/userguide/_images/Project-Incubating-blue.svg)](https://docs.outscale.com/en/userguide/Open-Source-Projects.html)
+[![Project Archived](https://docs.outscale.com/fr/userguide/_images/Project-Archived-red.svg)](https://docs.outscale.com/en/userguide/Open-Source-Projects.html)
 
 This is the code for the paper "USTEP: Unfixed Search Tree for Efficient Log Parsing" accepted at IEEE ICDM 2021.
 
